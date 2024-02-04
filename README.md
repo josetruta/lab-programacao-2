@@ -17,7 +17,7 @@ do curso de Ciência da Computação na UFCG no período 2023.2 *(fev/2024 ~ abr
 [Clique para ir ao Laboratório 01.](https://github.com/josetruta/lab-programacao-2/tree/main/Laboratorio-01)
 - Tradução de um programa Java (compilação + interpretação);
 - Uso de pacotes e classpath;
-- Introdução à sintaxe de Java: desvio condicional, laços, operadores, comando de atribuição ;
+- Introdução à sintaxe de Java: desvio condicional, laços, operadores, comando de atribuição;
 - Introdução aos tipos primitivos;
 - Conceitos básicos de entrada/saída: uso da entrada (teclado) e saída (monitor) padrão.
 
