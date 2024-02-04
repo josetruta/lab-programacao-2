@@ -20,7 +20,7 @@ public class FuncaoMonotona {
         if (x < y && y < z && z < w) {
             System.out.println("POSSIVELMENTE ESTRITAMENTE CRESCENTE");
         } else if (x > y && y > z && z > w) {
-            System.out.println("POSSIVELMENTE ESTRITAMENTE DE4CRESCENTE");
+            System.out.println("POSSIVELMENTE ESTRITAMENTE DECRESCENTE");
         } else {
             System.out.println("FUNCAO NAO ESTRITAMENTE CRES/DECR");
         }
