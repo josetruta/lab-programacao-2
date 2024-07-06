@@ -21,5 +21,5 @@ do curso de Ciência da Computação na UFCG no período 2023.2 *(fev/2024 ~ abr
 - Introdução aos tipos primitivos;
 - Conceitos básicos de entrada/saída: uso da entrada (teclado) e saída (monitor) padrão.
 
-
-
+## Laboratórios 02 ao 05
+- Em repositórios privados, para se manter o sigilo das avaliações da disciplina.
